@@ -1,4 +1,3 @@
-
 /**
  * TransitionTableType defines the structure for the transition table.
  */
